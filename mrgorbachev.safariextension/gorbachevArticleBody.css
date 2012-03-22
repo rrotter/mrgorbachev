@@ -1,0 +1,28 @@
+/* we will rename .articleBody to .gorbachevArticleBody
+   so this document preserves the old CSS styles */
+
+.gorbachevArticleBody {
+  margin-top: 1.5em;
+  margin-bottom: 1.7em;
+}
+
+/* we need to specify the attribute below to gain in priority */
+.gorbachevArticleBody p {
+  font-size: 1.5em !important;
+  line-height: 1.467em !important;
+  color: #000;
+}
+
+.gorbachevArticleBody .currentPage {
+  font-size: 1.3em;
+}
+
+.gorbachevArticleBody a {
+  text-decoration: underline;
+}
+
+.gorbachevArticleBody p .summary {
+  font-size: 1em !important;
+  line-height: 1.467em !important;
+  margin-bottom: 0;
+}
