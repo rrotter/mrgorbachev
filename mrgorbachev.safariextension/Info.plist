@@ -9,13 +9,13 @@
 	<key>CFBundleDisplayName</key>
 	<string>mrgorbachev</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.matthewleon.mistergorbachev</string>
+	<string>com.matthewleon.safari.mistergorbachev</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.1</string>
+	<string>0.11</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -50,6 +50,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://matthewleon.github.com/mrgorbachev/updates.plist</string>
 	<key>Website</key>
 	<string>http://matthewleon.github.com/mrgorbachev/</string>
 </dict>
